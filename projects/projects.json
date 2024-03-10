@@ -1,0 +1,123 @@
+[
+  {
+    "name": "EdTec: Full Stack App",
+    "desc": "It is an Web App that assists you to track performance during your mentor will guid and also help you to track the progress of your .",
+    "image": "EducationTec",
+    "category": "Web App",
+    "links": {
+      "view": "https://studynotion-megaproject.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Eduction-Tech"
+    }
+  },
+  {
+    "name": "Dash Board: React App",
+    "desc": "Here is DashBoard App. Track your Performance and keep track of your progress with DashBoard.",
+    "image": "Dashboard",
+    "category": "React App",
+    "links": {
+      "view": "https://shubham-dashboard.vercel.app/",
+      "code": "https://github.com/shubhamkush321/shubham-Dashboard"
+    }
+  },
+  {
+    "name": "E-Comm Ui Clone: Web App",
+    "desc": "Welcome to our online store! Discover a world of convenience and choice as you browse through our wide range of products.we have something for everyone.",
+    "image": "E-Comm",
+    "category": "Web App",
+    "links": {
+      "view": "https://e-commerse-seven.vercel.app/",
+      "code": "https://github.com/shubhamkush321/E-commerse"
+    }
+  },
+  {
+    "name": "Sanke Game: Web App",
+    "desc": "Classic Snake game: Eat apples, grow longer, avoid walls. Simple, addictive, nostalgic fun!",
+    "image": "SnakeGame",
+    "category": "Web App",
+    "links": {
+      "view": "https://snake-game-inky-six.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Snake-Game"
+    }
+  },
+  {
+    "name": "Razorpay UI Clone: Tailwind CSS",
+    "desc": "Razorpay is a leading online payment gateway that empowers businesses with seamless and secure payment solutions.",
+    "image": "Razorpay",
+    "category": "Web App",
+    "links": {
+      "view": "https://razorpay-clone-rose-phi.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Razorpay-Clone"
+    }
+  },
+  {
+    "name": "Food_Delivery: Web App",
+    "desc": "Food Delivery App: Order your favorites with ease. Fast, reliable, and delicious. Explore menus, track deliveries, and enjoy convenience at your doorstep.",
+    "image": "Food-Dev",
+    "category": "Web App",
+    "links": {
+      "view": "https://food-dev-app.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Food-Dev-App"
+    }
+  },
+  {
+    "name": "Simon Game: Web Application",
+    "desc": "SimonSays: Test memory and reflexes in this classic game. Follow the pattern, challenge friends, enjoy!.",
+    "image": "SimonSays",
+    "category": "Web App",
+    "links": {
+      "view": "https://simon-say-game-murex.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Simon-Say-Game"
+    }
+  },
+  {
+    "name": "Discord UI Clone: Tailwind CSS ",
+    "desc": "Discord: Connect with friends, join communities, and voice chat while gaming. Enhance teamwork and coordination in online multiplayer experiences.",
+    "image": "DiscordClone",
+    "category": "Web App",
+    "links": {
+      "view": "https://discord-ui-clone-delta.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Discord-UI-Clone"
+    }
+  },
+  {
+    "name": "Modern LAnding Page: Web Application",
+    "desc": "Modern Landing Page: Sleek design, responsive layout, and captivating visuals. Engage your audience with a stylish first impression, effortlessly.",
+    "image": "Jutusu",
+    "category": "Web App",
+    "links": {
+      "view": "https://www.linkedin.com/posts/shubham-kushwah-6b43b3266_linkedinprofile-webdesign-fullstackdeveloper-activity-7128737026509524993-Pdhm?utm_source=share&utm_medium=member_desktop",
+      "code": " https://github.com/shubhamkush321/Modern-Landing-Page"
+    }
+  },
+  {
+    "name": "Hotel Booking: Web Application",
+    "desc": "Airbnb: Discover unique places to stay with local hosts. Book homes, experiences, and adventures around the world with ease and confidence.",
+    "image": "Hotel",
+    "category": "Web App",
+    "links": {
+      "view": "https://airbnb-major-project-jack.onrender.com/",
+      "code": "https://github.com/shubhamkush321/AirbnbWebsite"
+    }
+  },
+  {
+    "name": "Digital Clock: Web Application",
+    "desc": "Digital: Explore a virtual world, solve puzzles, and uncover mysteries. Immerse yourself in an interactive adventure ",
+    "image": "DigitalClock",
+    "category": "Web App",
+    "links": {
+      "view": "https://digital-clock-three-delta.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Digital-Clock-"
+    }
+  },
+  
+  {
+    "name": "Weather App: Web Application",
+    "desc": "Weather App: Stay updated with accurate forecasts, interactive maps, and customizable alerts. Plan your day with confidence, anytime, anywhere.",
+    "image": "WeatherApp",
+    "category": "Web App",
+    "links": {
+      "view": "https://weatherapllicationbyshubham.netlify.app/",
+      "code": "https://github.com/shubhamkush321/Weather-Web-Application"
+    }
+  }
+]
