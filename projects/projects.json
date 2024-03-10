@@ -39,16 +39,7 @@
       "code": "https://github.com/shubhamkush321/Snake-Game"
     }
   },
-  {
-    "name": "Razorpay UI Clone: Tailwind CSS",
-    "desc": "Razorpay is a leading online payment gateway that empowers businesses with seamless and secure payment solutions.",
-    "image": "Razorpay",
-    "category": "Web App",
-    "links": {
-      "view": "https://razorpay-clone-rose-phi.vercel.app/",
-      "code": "https://github.com/shubhamkush321/Razorpay-Clone"
-    }
-  },
+ 
   {
     "name": "Food_Delivery: Web App",
     "desc": "Food Delivery App: Order your favorites with ease. Fast, reliable, and delicious. Explore menus, track deliveries, and enjoy convenience at your doorstep.",
@@ -57,6 +48,16 @@
     "links": {
       "view": "https://food-dev-app.vercel.app/",
       "code": "https://github.com/shubhamkush321/Food-Dev-App"
+    }
+  },
+  {
+    "name": "Razorpay UI Clone: Tailwind CSS",
+    "desc": "Razorpay is a leading online payment gateway that empowers businesses with seamless and secure payment solutions.",
+    "image": "Razorpay",
+    "category": "Web App",
+    "links": {
+      "view": "https://razorpay-clone-rose-phi.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Razorpay-Clone"
     }
   },
   {
