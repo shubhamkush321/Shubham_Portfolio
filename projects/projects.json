@@ -50,16 +50,7 @@
       "code": "https://github.com/shubhamkush321/Food-Dev-App"
     }
   },
-  {
-    "name": "Razorpay UI Clone: Tailwind CSS",
-    "desc": "Razorpay is a leading online payment gateway that empowers businesses with seamless and secure payment solutions.",
-    "image": "Razorpay",
-    "category": "Web App",
-    "links": {
-      "view": "https://razorpay-clone-rose-phi.vercel.app/",
-      "code": "https://github.com/shubhamkush321/Razorpay-Clone"
-    }
-  },
+  
   {
     "name": "Simon Game: Web Application",
     "desc": "SimonSays: Test memory and reflexes in this classic game. Follow the pattern, challenge friends, enjoy!.",
@@ -119,6 +110,16 @@
     "links": {
       "view": "https://weatherapllicationbyshubham.netlify.app/",
       "code": "https://github.com/shubhamkush321/Weather-Web-Application"
+    }
+  },
+  {
+    "name": "Razorpay UI Clone: Tailwind CSS",
+    "desc": "Razorpay is a leading online payment gateway that empowers businesses with seamless and secure payment solutions.",
+    "image": "Razorpay",
+    "category": "Web App",
+    "links": {
+      "view": "https://razorpay-clone-rose-phi.vercel.app/",
+      "code": "https://github.com/shubhamkush321/Razorpay-Clone"
     }
   }
 ]
